@@ -80,7 +80,7 @@ public class EDASCA {
     private void initUMDA() {
         this._MAX_ITERATIONS = 10;
         this._maxPoints = 50;
-        this._popSize   = 100;
+        this._popSize   = 500;
         this._numDiscVars = this._maxPoints;
         this._numContVars = 0;
         this._nFuncs = 1;
