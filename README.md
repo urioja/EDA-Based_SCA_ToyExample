@@ -11,7 +11,7 @@ The EDA-Based PA can be implemented by modifying the "evaluation" part and perfo
 
 Coded with Apache NetBeans IDE 12.1. 
 
-(main class => eda.sca.EDASCA)
+(main class -> eda.sca.EDASCA)
  
 ## References
 <a id="1">[1]</a> 
