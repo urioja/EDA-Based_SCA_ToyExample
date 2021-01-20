@@ -9,7 +9,7 @@ In this example, instead of performing Template attacks with the selected POIs a
 
 The EDA-Based PA can be implemented by modifying the "evaluation" part and performing some kind of PA (Template attack, Machine learning, Deep Learning, etc.) on a set of traces instead of just count the number of ones in each string (Individual). 
 
-Coded with Apache NetBeans IDE 12.1. 
+Coded with Apache NetBeans IDE 12.1. (main class => eda.sca.EDASCA)
  
 ## References
 <a id="1">[1]</a> 
